@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "26 Elgin Street",
     "city": "Smiths Falls",
@@ -102,6 +102,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-903",
     "tag": "Open House 26 Elgin Street, Smiths Falls",
     "netlifyUrl": null,
-    "siteId": "1080714683"
+    "siteId": "5f391051-e636-4ca4-926d-a337de49cce4"
   }
 }
